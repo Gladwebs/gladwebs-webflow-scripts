@@ -7,7 +7,7 @@ Build Stage Focus:
    badge modal, confetti (script + CSS in later parts)
 PART 1 = HTML (Structure) — copy/paste ready
 ========================================================= -->
-
+console.log("✅ build-stage.js loaded");
 <section class="gw-buildV" id="gw-build-path" aria-label="Build Path">
   <!-- ===== TOP: Visual header + Phase Map ===== -->
   <header class="gwTop">
